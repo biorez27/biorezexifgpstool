@@ -20,4 +20,4 @@ The script will ask for the following input:
 You can also erase GPS metadata by entering 0, 0 coordinates.
 
 ## License
-[AGPL-3.0](https://choosealicense.com/licenses/agpl-3.0/)
+[GNU LGPLv3](https://choosealicense.com/licenses/lgpl-3.0/)
